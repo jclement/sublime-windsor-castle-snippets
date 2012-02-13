@@ -1,0 +1,8 @@
+<snippet>
+	<description>Castle Array</description>
+    <content><![CDATA[${0:<array>
+	<item></item>
+</array>}]]></content>
+    <tabTrigger>carray</tabTrigger>
+    <scope>text.xml</scope>	
+</snippet>

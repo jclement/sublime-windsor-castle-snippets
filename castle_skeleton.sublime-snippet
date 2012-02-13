@@ -1,0 +1,11 @@
+<snippet>
+	<description>Castle Configuration Skeleton</description>
+    <content><![CDATA[${0:<castle>
+	<properties>
+	</properties>
+	<components>
+	</components>
+</castle>}]]></content>
+    <tabTrigger>cskel</tabTrigger>
+    <scope>text.xml</scope>	
+</snippet>
