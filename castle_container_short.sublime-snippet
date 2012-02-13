@@ -1,0 +1,6 @@
+<snippet>
+	<description>Castle Component (Short)</description>
+    <content><![CDATA[${0:<component id="" type="" service="" />}]]></content>
+    <tabTrigger>ccs</tabTrigger>
+    <scope>text.xml</scope>	
+</snippet>

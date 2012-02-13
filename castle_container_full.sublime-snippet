@@ -1,0 +1,9 @@
+<snippet>
+    <description>Castle Component Full</description>
+    <content><![CDATA[${0:<component id="" service="" type=""> 
+  <parameters>
+  </parameters>
+</component>}]]></content>
+    <tabTrigger>ccp</tabTrigger>
+    <scope>text.xml</scope>	
+</snippet>
